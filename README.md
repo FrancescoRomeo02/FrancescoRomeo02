@@ -2,7 +2,7 @@
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHAHo1va6NTM5AyCKwzKtrg?style=social)][youtube]
 [![Twitch](https://img.shields.io/twitch/status/francesco_romeo?style=social)][twitch]
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Frances09275497?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/Frances09275497&screen_name=Frances09275497)
 
 ## I'm a Student and Developer!!
 
@@ -13,26 +13,23 @@
 
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UCHAHo1va6NTM5AyCKwzKtrg)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UCHAHo1va6NTM5AyCKwzKtrg)
+[![website][<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" /> ]](https://www.youtube.com/channel/UCHAHo1va6NTM5AyCKwzKtrg)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/Frances09275497#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Frances09275497#gh-dark-mode-only)
+[![website][<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" /> ]](https://twitter.com/Frances09275497#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/francesco-romeo-92745b160/)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/francesco-romeo-92745b160/)
+[![website][<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" /> ]](https://www.linkedin.com/in/francesco-romeo-92745b160/)
 &nbsp;&nbsp;
-[![website](./img/twitch-light.svg)](https://www.twitch.tv/francesco_romeo)
-[![website](./img/twitch-dark.svg)](https://www.twitch.tv/francesco_romeo)
+[![website][<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitch.svg" /> ]](https://www.twitch.tv/francesco_romeo)
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][]
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" style="padding-right:10px;" />]
 <br />
 <br />
 
@@ -75,8 +72,8 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/francesco_romeo
+[website]: romeofrancesco.com
+[twitter]: https://twitter.com/Frances09275497
 [youtube]: https://www.youtube.com/channel/UCHAHo1va6NTM5AyCKwzKtrg
 [linkedin]: https://linkedin.com/in/francesco-romeo-92745b160/
 [twitch]: https://www.twitch.tv/francesco_romeo
