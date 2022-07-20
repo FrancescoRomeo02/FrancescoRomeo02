@@ -13,7 +13,7 @@
 
 ### Connect with me:
 
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" style="fill: red" />](https://www.youtube.com/channel/UCHAHo1va6NTM5AyCKwzKtrg)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" style="fill:red" />](https://www.youtube.com/channel/UCHAHo1va6NTM5AyCKwzKtrg)
 &nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" /> ](https://twitter.com/Frances09275497#gh-light-mode-only)
 &nbsp;&nbsp;
@@ -55,13 +55,14 @@
 
 ---
 
-### 🚨 Latest lives
+### 🚨 Latest Twitch/YouTube Lives
 
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more about lives...](https://www.twitch.tv/francesco_romeo)
+➡️ [more about twitch lives...](https://www.twitch.tv/francesco_romeo)
+➡️ [more about YouTube lives...](https://www.youtube.com/channel/UCHAHo1va6NTM5AyCKwzKtrg)
 
 ---
 
