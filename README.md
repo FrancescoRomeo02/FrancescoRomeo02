@@ -13,13 +13,13 @@
 
 ### Connect with me:
 
-[![website][<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" /> ]](https://www.youtube.com/channel/UCHAHo1va6NTM5AyCKwzKtrg)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" />](https://www.youtube.com/channel/UCHAHo1va6NTM5AyCKwzKtrg)
 &nbsp;&nbsp;
-[![website][<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" /> ]](https://twitter.com/Frances09275497#gh-light-mode-only)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" /> ](https://twitter.com/Frances09275497#gh-light-mode-only)
 &nbsp;&nbsp;
-[![website][<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" /> ]](https://www.linkedin.com/in/francesco-romeo-92745b160/)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" /> ](https://www.linkedin.com/in/francesco-romeo-92745b160/)
 &nbsp;&nbsp;
-[![website][<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitch.svg" /> ]](https://www.twitch.tv/francesco_romeo)
+[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitch.svg" /> ](https://www.twitch.tv/francesco_romeo)
 
 ### Languages and Tools:
 
@@ -29,7 +29,7 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Django" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" style="padding-right:10px;" />]
+
 <br />
 <br />
 
