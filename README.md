@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: create an NFT collection, start blogging and strimming.
+- 🥅 2022 Goals: create an NFT collection, start blogging and streaming.
 - ⚡ Fun fact: I love study and play videogames
 
 ### Connect with me:
