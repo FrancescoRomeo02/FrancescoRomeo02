@@ -1,15 +1,17 @@
-# Hi there, I'm Francesco - [youtube] 👋
+# Hi there, I'm Francesco - [twitter] 👋
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHAHo1va6NTM5AyCKwzKtrg?style=social)][youtube]
+
 [![Twitch](https://img.shields.io/twitch/status/francesco_romeo?style=social)][twitch]
+
 [![Twitter Follow](https://img.shields.io/twitter/follow/Frances09275497?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/Frances09275497&screen_name=Frances09275497)
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: create an NFT collection, start blogging and streaming.
-- ⚡ Fun fact: I love study and play videogames
+- 🌱  I’m currently learning everything 🤣
+- 🤝  I’m looking to collaborate with other content creators
+- 🥅  2022 Goals: start strimming and collab to opensource.
+- 🔥  Fun fact: I love watching live stream or long videos
 
 ### Connect with me:
 
@@ -20,8 +22,6 @@
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" /> ](https://www.linkedin.com/in/francesco-romeo-92745b160/)
 &nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitch.svg" /> ](https://www.twitch.tv/francesco_romeo)
-
---- 
 
 ### Languages and Tools:
 
@@ -47,7 +47,7 @@
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest tweet
 
 <!-- BLOG-POST-LIST:START -->
 
@@ -70,15 +70,12 @@
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  <img align="left" alt="Francesco Romeo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FrancescoRomeo02&show_icons=true&theme=nightowl" />
+
+  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=FrancescoRomeo02&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
+
 </details>
 
-<details>
-  <summary>:zap: Top Languages</summary>
-  <img align="left" alt="Francesco Romeo's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoRomeo02" />
-</details>
-
-[website]: romeofrancesco.com
+[website]: francescoromeo.com
 [twitter]: https://twitter.com/Frances09275497
 [youtube]: https://www.youtube.com/channel/UCHAHo1va6NTM5AyCKwzKtrg
 [linkedin]: https://linkedin.com/in/francesco-romeo-92745b160/
