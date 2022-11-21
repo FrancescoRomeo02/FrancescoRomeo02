@@ -1,4 +1,4 @@
-# Hi there, I'm Francesco - [twitter] 👋
+# Hi there, I'm Francesco - [youtube] 👋
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHAHo1va6NTM5AyCKwzKtrg?style=social)][youtube]
 
@@ -53,7 +53,7 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...]()
+➡️ [more tweet...]([twitter])
 
 ---
 
