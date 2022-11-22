@@ -1,4 +1,4 @@
-# Hi there, I'm Francesco - [tweeter] 👋
+# Hi there, I'm Francesco - [twitter] 👋
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHAHo1va6NTM5AyCKwzKtrg?style=social)][youtube]
 
