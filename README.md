@@ -17,7 +17,7 @@
 
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/youtube.svg" style="fill:red" />](https://www.youtube.com/channel/UCHAHo1va6NTM5AyCKwzKtrg)
 &nbsp;&nbsp;
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" /> ](https://twitter.com/Frances09275497#gh-light-mode-only)
+[<img height="32" width="32" src="https://www.svgrepo.com/show/183608/twitter.svg" /> ](https://twitter.com/Frances09275497#gh-light-mode-only)
 &nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" /> ](https://www.linkedin.com/in/francesco-romeo-92745b160/)
 &nbsp;&nbsp;
