@@ -19,7 +19,7 @@
 &nbsp;&nbsp;
 [<img height="32" width="32" src="https://www.svgrepo.com/show/183608/twitter.svg" /> ](https://twitter.com/Frances09275497#gh-light-mode-only)
 &nbsp;&nbsp;
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linkedin.svg" /> ](https://www.linkedin.com/in/francesco-romeo-92745b160/)
+[<img height="32" width="32" src="https://www.svgrepo.com/show/157006/linkedin.svg" /> ](https://www.linkedin.com/in/francesco-romeo-92745b160/)
 &nbsp;&nbsp;
 [<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitch.svg" /> ](https://www.twitch.tv/francesco_romeo)
 
