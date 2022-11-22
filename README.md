@@ -47,11 +47,11 @@
 
 ---
 
-### 📕 Latest tweet
+### 🐤 Latest tweet
 
-<!-- BLOG-POST-LIST:START -->
+<!-- TWEET-POST-LIST:START -->
 
-<!-- BLOG-POST-LIST:END -->
+<!-- TWEET-POST-LIST:END -->
 
 ➡️ [more tweet...]([twitter])
 
@@ -59,9 +59,9 @@
 
 ### 🚨 Latest Twitch/YouTube Lives
 
-<!-- BLOG-POST-LIST:START -->
+<!-- VIDEO-LIST:START -->
 
-<!-- BLOG-POST-LIST:END -->
+<!-- VIDEO-LIST:END -->
 
 ➡️ [more about twitch lives...](https://www.twitch.tv/francesco_romeo)
 ➡️ [more about YouTube lives...](https://www.youtube.com/channel/UCHAHo1va6NTM5AyCKwzKtrg)
