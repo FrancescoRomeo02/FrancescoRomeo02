@@ -57,7 +57,7 @@
 
 ---
 
-### 🚨 Latest Twitch/YouTube Lives
+### 🚨 Twitch/YouTube Lives
 
 <!-- VIDEO-LIST:START -->
 
