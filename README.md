@@ -17,6 +17,8 @@
 
 [<img height="32" width="32" src="https://www.svgrepo.com/show/157839/youtube.svg" style="fill:red" /> ](https://www.youtube.com/channel/UCHAHo1va6NTM5AyCKwzKtrg)
 &nbsp;&nbsp;
+[<img height="32" width="32" src="https://www.svgrepo.com/show/157839/youtube.svg" style="fill:red" /> ](https://www.youtube.com/channel/UCHAHo1va6NTM5AyCKwzKtrg)
+&nbsp;&nbsp;
 [<img height="32" width="32" src="https://www.svgrepo.com/show/157006/linkedin.svg" /> ](https://www.linkedin.com/in/francesco-romeo-92745b160/)
 &nbsp;&nbsp;
 [<img height="32" width="32" src="https://www.svgrepo.com/show/271120/twitch.svg" /> ](https://www.twitch.tv/francesco_romeo)
