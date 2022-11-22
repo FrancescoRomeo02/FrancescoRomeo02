@@ -1,4 +1,4 @@
-# Hi there, I'm Francesco - [twitter] 👋🏼
+# Hi there, I'm Francesco - [website] 👋🏼
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHAHo1va6NTM5AyCKwzKtrg?style=social)][youtube]
 
@@ -8,10 +8,10 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱  I’m currently learning everything
-- 🤝  I’m looking to collaborate with other content creators
-- 🥅  2022 Goals: start strimming and collab to opensource.
-- 🔥  Fun fact: I love watching live stream or long videos
+- 🌱 I’m currently learning everything
+- 🤝 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: start strimming and collab to opensource.
+- 🔥 Fun fact: I love watching live stream or long videos
 
 ### Connect with me:
 
