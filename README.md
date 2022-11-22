@@ -15,7 +15,7 @@
 
 ### Connect with me:
 
-[<img height="32" width="32" src="https://www.svgrepo.com/show/157839/youtube.svg" style="fill:red" />](https://www.youtube.com/channel/UCHAHo1va6NTM5AyCKwzKtrg)
+[<img height="32" width="32" src="https://www.svgrepo.com/show/157839/youtube.svg" style="fill:red" /> ](https://www.youtube.com/channel/UCHAHo1va6NTM5AyCKwzKtrg)
 &nbsp;&nbsp;
 [<img height="32" width="32" src="https://www.svgrepo.com/show/183608/twitter.svg" /> ](https://twitter.com/Frances09275497#gh-light-mode-only)
 &nbsp;&nbsp;
