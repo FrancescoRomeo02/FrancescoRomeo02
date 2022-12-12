@@ -8,10 +8,10 @@
 
 ## I'm a Student and Developer!!
 
-- 🌱 I’m currently learning everything
-- 🤝 I’m looking to collaborate with other content creators
+- 🌱 I’m currently learning cs at UNIMIB.
+- 🤝 I’m looking to collaborate with other programmers.
 - 🥅 2022 Goals: start strimming and collab to opensource.
-- 🔥 Fun fact: I love watching live stream or long videos
+- 🔥 Fun fact: I love watching live stream or long videos.
 
 ### Connect with me:
 
