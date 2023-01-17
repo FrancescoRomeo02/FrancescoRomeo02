@@ -4,8 +4,6 @@
 
 [![Twitch](https://img.shields.io/twitch/status/francesco_romeo?style=social)][twitch]
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/FraRomeo0226?color=1DA1F2&logo=twitter&style=for-the-badge)
-
 ## I'm a Student and Developer!!
 
 - 🌱 I’m currently learning cs at UNIMIB.
