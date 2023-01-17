@@ -4,7 +4,7 @@
 
 [![Twitch](https://img.shields.io/twitch/status/francesco_romeo?style=social)][twitch]
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Frances09275497?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/Frances09275497&screen_name=Frances09275497)
+[![Twitter Follow](https://img.shields.io/twitter/follow/FraRomeo0226?color=1DA1F2&logo=twitter&style=for-the-badge)
 
 ## I'm a Student and Developer!!
 
