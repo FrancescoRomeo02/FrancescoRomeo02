@@ -1,8 +1,5 @@
 # Hi there, I'm Francesco - [website] 👋🏼
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCHAHo1va6NTM5AyCKwzKtrg?style=social)][youtube]
-
-[![Twitch](https://img.shields.io/twitch/status/francesco_romeo?style=social)][twitch]
 
 ## I'm a Student and Developer!!
 
@@ -33,38 +30,6 @@
 <br />
 <br />
 
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-
-<!-- YOUTUBE:END -->
-
-➡️ [more videos...](https://www.youtube.com/channel/UCHAHo1va6NTM5AyCKwzKtrg)
-
----
-
-### 🐤 Latest tweet
-
-<!-- TWEET-POST-LIST:START -->
-
-<!-- TWEET-POST-LIST:END -->
-
-➡️ [more tweet...]([twitter])
-
----
-
-### 🚨 Twitch/YouTube Lives
-
-<!-- VIDEO-LIST:START -->
-
-<!-- VIDEO-LIST:END -->
-
-➡️ [more about twitch lives...](https://www.twitch.tv/francesco_romeo)
-➡️ [more about YouTube lives...](https://www.youtube.com/channel/UCHAHo1va6NTM5AyCKwzKtrg)
-
----
 
 <details>
   <summary>:zap: GitHub Stats</summary>
