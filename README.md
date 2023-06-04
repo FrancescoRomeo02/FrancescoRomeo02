@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning cs at UNIMIB.
 - 🤝 I’m looking to collaborate with other programmers.
-- 🥅 2022 Goals: start strimming and collab to opensource.
-- 🔥 Fun fact: I love watching live stream or long videos.
 
 ### Connect with me:
 
