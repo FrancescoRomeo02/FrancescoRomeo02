@@ -1,7 +1,7 @@
 Hi 👋 My name is Francesco Romeo
 =======================================================================================================================================
 
-🔜 Software Engineer
+🔜  Software Engineer
 ------------------------
 
 I am a **CS student** @ UniMiB with a passion for **programming and teaching**. I have experience as a **Python developer** and a **tutor** for various subjects. I am always eager to use and enhance my **skills and knowledge**.
