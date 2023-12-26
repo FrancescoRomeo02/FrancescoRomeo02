@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Francesco Romeo
+Hi 👋 My name is Francesco Romeo
 =======================================================================================================================================
 
-future Software Engineer
+🔜 Software Engineer
 ------------------------
 
 I am a **CS student** @ UniMiB with a passion for **programming and teaching**. I have experience as a **Python developer** and a **tutor** for various subjects. I am always eager to use and enhance my **skills and knowledge**.
