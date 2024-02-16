@@ -7,7 +7,7 @@ Hi 👋 My name is Francesco Romeo
 I am a **CS student** @ UniMiB with a passion for **programming and teaching**. I have experience as a **Python developer** and a **tutor** for various subjects. I am always eager to use and enhance my **skills and knowledge**.
 
 * 🌍  I'm based in **Milano**
-* 🖥️  See my **portfolio** at [My website](http://francescoromeo02.github.io/HTML/index.html)
+* 🖥️  See my **portfolio** at [My website](http://francescoromeo02.github.io)
 * ✉️  You can **contact** me at [romeo.francesco.2002@gmail.com](mailto:romeo.francesco.2002@gmail.com)
 * 🚀  I'm **currently working** on [TicketWave (Android App)](http://github.com/FrancescoRomeo02/TicketWave_AndroidApp)
 * 🧠  I'm **learning** Java for Android dev. and Python for finance
