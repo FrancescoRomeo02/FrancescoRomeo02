@@ -9,7 +9,7 @@ I am a **CS student** @ UniMiB with a passion for **programming and teaching**. 
 * 🌍  I'm based in **Milano**
 * 🖥️  See my **portfolio** at [My website](http://francescoromeo02.github.io)
 * ✉️  You can **contact** me at [romeo.francesco.2002@gmail.com](mailto:romeo.francesco.2002@gmail.com)
-* 🚀  I'm **currently working** on [TicketWave (Android App)](http://github.com/FrancescoRomeo02/TicketWave_AndroidApp)
+* 🚀  I'm **currently working** on [Kicking Insights](#)
 * 🧠  I'm **learning** Java for Android dev. and Python for finance
 * 🤝  I'm open to collaborating on **anything that could teach me something**
 * ⚡  _15 programmers on the dead man's code - Yo-ho-ho, and a bottle of rum!_
