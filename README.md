@@ -33,5 +33,3 @@ I am a **CS student** @ UniMiB with a passion for **programming and teaching**. 
 <a href="http://www.github.com/FrancescoRomeo02"><img src="https://github-readme-stats.vercel.app/api?username=FrancescoRomeo02&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=64748b&icon_color=a855f7&bg_color=0f172a&hide_border=true&show_icons=true" alt="FrancescoRomeo02's GitHub stats" /></a>
 
 <a href="http://www.github.com/FrancescoRomeo02"><img src="https://github-readme-streak-stats.herokuapp.com/?user=FrancescoRomeo02&stroke=64748b&background=0f172a&ring=6366f1&fire=6366f1&currStreakNum=64748b&currStreakLabel=6366f1&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
-
-<a href="https://github.com/FrancescoRomeo02" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancescoRomeo02&langs_count=10&title_color=6366f1&text_color=64748b&icon_color=a855f7&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
