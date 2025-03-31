@@ -8,4 +8,4 @@ My name is Francesco, I'm a **CS student** @ UniMiB with a passion for **program
 * 🚀  I'm **currently working** on my website and my blog.
 
 
-✉️  You can **contact** me at [romeo.francesco.2002@gmail.com](mailto:romeo.francesco.2002@gmail.com)
+✉️  You can **contact** me at [romeo.francesco.social@gmail.com](mailto:romeo.francesco.social@gmail.com)
