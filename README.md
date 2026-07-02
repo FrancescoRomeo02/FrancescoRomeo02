@@ -2,15 +2,11 @@
 
 AI engineer and builder focused on research tools, multimodal RAG systems, and practical AI products.
 
-I am currently finishing my Master's degree in Computer Science at the University of Milan-Bicocca while working on products and experiments around AI-assisted writing, retrieval systems, and real-time applications.
+I am a Computer Science graduate based in Milan. My work sits at the intersection of AI, product engineering, and research workflows, with a strong interest in building systems that are technically solid and useful in real environments.
 
-## Selected Projects
+I am currently building [**InkSight**](https://inksight-ai.com), an AI startup focused on research writing and AI-assisted editing, where I work on product direction, system architecture, and the core AI experience.
 
-- **[InkSightAI](https://github.com/FrancescoRomeo02/InkSightAI)** - AI-native writing platform for researchers, with contextual editing, LaTeX workflows, and RAG-assisted academic writing.
-- **[multimodalragApp](https://github.com/FrancescoRomeo02/multimodalragApp)** - Multimodal RAG system for querying PDF documents across text, images, and tables with vector search and LLM inference.
-- **[Mazzo-d-Eroi](https://github.com/FrancescoRomeo02/Mazzo-d-Eroi)** - Real-time companion app and game engine for a card-based narrative RPG.
-- **[marIA](https://github.com/FrancescoRomeo02/marIA)** - Enterprise AI chatbot built for employee onboarding and internal knowledge assistance.
-- **[Budget-Manager](https://github.com/FrancescoRomeo02/Budget-Manager)** - Web-based budget management system for tracking transactions, balances, and expenses.
+I also write occasionally on my blog: [francescoromeo02.github.io](https://francescoromeo02.github.io/blog/).
 
 ## Interests
 
