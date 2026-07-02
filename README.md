@@ -6,7 +6,7 @@ I am a Computer Science graduate based in Milan. My work sits at the intersectio
 
 I am currently building [**InkSight**](https://inksight-ai.com), an AI startup focused on research writing and AI-assisted editing, where I work on product direction, system architecture, and the core AI experience.
 
-I also write occasionally on my blog: [francescoromeo02.github.io](https://francescoromeo02.github.io/blog/).
+I also write occasionally on my [blog](https://francescoromeo02.github.io/blog/).
 
 ## Interests
 
